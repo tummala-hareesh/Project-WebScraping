@@ -1,4 +1,4 @@
-# miniProject-WebScraping
+# Project-WebScraping
 This repository has been created to keep track of files created as a part of **[Web Scraping using Python on DataCamp course](https://www.datacamp.com/courses/web-scraping-with-python)**.
 
 - Web Scraping is a very important skill for any Data Scientist to master.
